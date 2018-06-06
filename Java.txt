@@ -1,7 +1,0 @@
-
-
-Welcome to Java project
-
-Methods
-Tests
-POM file
